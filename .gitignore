@@ -1,0 +1,7 @@
+# Claude Code
+.claude/
+CLAUDE.md
+MEMORY.md
+memory/
+memsearch/
+.gitignore
